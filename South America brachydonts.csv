@@ -1,4 +1,4 @@
-﻿Collection_number,Ungulates,HYP,NonHYP,Prop_NonHYP,Longitude,Latitude,Age.max,Age.min,Age,Locality_name,Region
+﻿Locality_number,Ungulates,HYP,NonHYP,Prop_NonHYP,Longitude,Latitude,Age.max,Age.min,Age,Locality_name,Region
 PBDB 176200,15,6,9,0.6,-68.666664,-45.666668,33.6,31.3,32.45,La Cancha,Extratropical
 PBDB 38611,6,4,2,0.333333333,-69,-45.5,33.6,31.3,32.45,"Puesto Almendra, Gran Barranca, Chubut",Extratropical
 PBDB 38653,7,6,1,0.142857143,-68.5,-44.5,33.6,31.3,32.45,Canadon Blanco,Extratropical
