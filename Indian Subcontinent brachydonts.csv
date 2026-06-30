@@ -1,0 +1,47 @@
+﻿Region,Country,NOWID,Locality.name,N,Brachydonts,Hypsodonts,Latitude,Longitude,Max.age,Min.age,Age,European.Mammal.Zone
+Indian Subcontinent,India,26570,Ramangar,34,14,5,33.69166667,76.93333333,13.82,11.63,12.725,MN7-8
+Indian Subcontinent,India,27001,Surai Khola 1,26,1,18,27.83333333,82.83333333,12.887,12.272,12.5795,MN7-8
+Indian Subcontinent,India,27678,Piram Island,5,3,1,20.32666667,78.85388889,11.63,9.438,10.534,MN9
+Indian Subcontinent,India,27705,Pasuda,20,9,0,23.24111111,70.18361111,11.232,8.2825,9.75725,MN10
+Indian Subcontinent,India,26560,Nurpur,21,12,4,32,77,11.63,7.2,9.415,MN10
+Indian Subcontinent,India,26967,Haritalyangar,3,1,1,31.52805556,76.63611111,9.105,8.771,8.938,MN10
+Indian Subcontinent,India,26556,Saketi,4,2,1,32,77.28333333,5.333,3.9565,4.64475,MN15
+Indian Subcontinent,India,27008,Tatrot,37,7,9,30.75,76.83333333,3.6,2.58,3.09,MN16
+Indian Subcontinent,India,27006,Uttarbeni?Parmandal (lower),8,4,4,33.68333333,76.91666667,3.5,2.5,3,MN16
+Indian Subcontinent,India,27007,Uttarbeni?Parmandal (upper),15,2,6,33.68333333,76.91666667,2,1,1.5,MN18
+Indian Subcontinent,India,27962,Ganga,14,2,10,26.76111111,81.77,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27969,Ghod,13,0,6,19.05777778,73.83583333,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27967,Godavari,16,2,10,17.22527778,79.61777778,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27012,Indo-Gangnetic,26,1,19,24,88,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27970,Krishna,9,0,7,16.65563,80.1302096,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27972,KurnoolCaves,35,3,12,15.80888889,78.05416667,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27966,Mahanadi,11,0,10,21.31805556,83.92111111,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27968,Manjra,13,4,8,21.15388889,72.89444444,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27010,Narbada and Godavari,16,2,9,28,80,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27965,Narmada,28,3,17,22.82055556,77.85388889,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27971,Sagileru,4,0,4,17.02138889,80.0975,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27963,Son,29,2,15,25.58861111,83.78027778,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27974,Tamil Nadu,19,0,6,10.98,78.49222222,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,India,27973,West Bengal,18,1,9,22.98361111,87.86027778,1.9,0.0117,0.95585,MN18
+Indian Subcontinent,Nepal,26568,Dang Valley,14,7,0,28,82.33333333,12.85,11.2,12.025,MN7-8
+Indian Subcontinent,Nepal,26569,Butwal,5,2,3,28,82.5,11.63,7.246,9.438,MN10
+Indian Subcontinent,Nepal,27002,Surai Khola 2,5,2,2,27.86666667,82.83333333,7.528,2.581,5.0545,MN14
+Indian Subcontinent,Nepal,27005,Rato Khola 1,3,1,1,27,85,3.596,1.945,2.7705,MN16
+Indian Subcontinent,Nepal,27005,Rato Khola 2,3,2,1,27,85,3.596,1.945,2.7705,MN16
+Indian Subcontinent,Nepal,27003,Surai Khola 3,5,2,3,27.88333333,82.83333333,3.596,1.945,2.7705,MN16
+Indian Subcontinent,Nepal,24385,Gidhniya,6,2,4,28.0292,82.1667,3.6,0.0117,1.80585,MN18
+Indian Subcontinent,Nepal,24387,Kathmandu valley,3,2,1,28,85,3.6,0.0117,1.80585,MN18
+Indian Subcontinent,Pakistan,22956,Paali Nala C2,30,2,0,29,69.167,33.9,27.82,30.86,MP22
+Indian Subcontinent,Pakistan,26582,Zinda Pir 1,15,5,1,30,70,29.552,23.03,26.291,MP26
+Indian Subcontinent,Pakistan,26579,Dear Bugti Chatt.,12,9,1,29,69,27.82,23.03,25.425,MP26
+Indian Subcontinent,Pakistan,26585,Zinda Pir 2,8,6,1,30.08333333,70.08333333,26.653,19.3973,23.02515,MP30
+Indian Subcontinent,Pakistan,26595,Dera Bugti 3bis,6,6,0,29,69,23.03,20.44,21.735,MN1
+Indian Subcontinent,Pakistan,26586,Zinda Pir 3,21,9,2,30.1,70.1,19.722,18.748,19.235,MN3
+Indian Subcontinent,Pakistan,21667,Dera Bugti 4,19,15,2,29.033,69.15,19.5,17.2,18.35,MN3
+Indian Subcontinent,Pakistan,21668,Dera Bugti 5,10,6,0,29.033,69.15,19.5,17.2,18.35,MN3
+Indian Subcontinent,Pakistan,21669,Dera Bugti 6,23,13,3,29.033,69.15,17.2,16.4,16.8,MN4
+Indian Subcontinent,Pakistan,26581,Manchar 1,25,13,3,26,68,16.4,14.2,15.3,MN5
+Indian Subcontinent,Pakistan,27025,Manchar 2,12,10,2,26,68,16.4,14.2,15.3,MN5
+Indian Subcontinent,Pakistan,26596,Dera Bugti W,5,4,0,29,69,12.85,11.2,12.025,MN7-8
+Indian Subcontinent,Pakistan,21670,Dera Bugti Sartaaf,5,1,3,29.033,69.15,9.9,7.6,8.75,MN11
+Indian Subcontinent,Pakistan,26587,Zinda pir 4,12,5,4,30.06666667,70.06666667,11.63,5.333,8.4815,MN11

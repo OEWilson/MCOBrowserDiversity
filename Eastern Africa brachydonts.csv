@@ -1,0 +1,94 @@
+﻿Region,Country,NOWID,Locality.name,N,Brachydonts,Hypsodonts,Latitude,Longitude,Max.age,Min.age,Age,European.Mammal.Zone
+Eastern Africa,Kenya,27695,"Lokone (Lok 1, 2, 12)",5,3,0,2.382649,35.961655,29.847,26.223,28.035,MP25
+Eastern Africa,Kenya,23751,Nyanza 11 (legetet 10),20,4,0,-0.160564,35.260116,20.677,19.5,20.0885,MN2
+Eastern Africa,Kenya,23752,Nyanza 12 (Legetet 11),14,2,0,-0.160564,35.260116,20.677,19.5,20.0885,MN2
+Eastern Africa,Kenya,23754,Nyanza 14 (Legete 14),21,2,0,-0.160564,35.260116,20.677,19.5,20.0885,MN2
+Eastern Africa,Kenya,23760,Nyanza 20 (Legetet 29),25,2,0,-0.160564,35.260116,20.677,19.5,20.0885,MN2
+Eastern Africa,Kenya,23765,Nyanza 25 (Mteitei 32),11,3,0,0.011278,35.308542,20.677,19.5,20.0885,MN2
+Eastern Africa,Kenya,23766,Nyanza 26 (Mteitei 33),7,3,0,0.011278,35.308542,20.677,19.5,20.0885,MN2
+Eastern Africa,Kenya,23747,Nyanza 7 (Koru 16),9,3,0,-0.18181,35.269821,20.677,19.5,20.0885,MN2
+Eastern Africa,Kenya,23749,Nyanza 9 (Koru 25),13,3,0,-0.18181,35.269821,20.677,19.5,20.0885,MN2
+Eastern Africa,Kenya,29208,Meswa Bridge,10,3,0,0.137222222,35.20583333,20.6,19.5,20.05,MN2
+Eastern Africa,Kenya,26812,Loperot,14,6,1,2.428017,35.88551,20.0805,16.96,18.52025,MN3
+Eastern Africa,Kenya,26912,Uyoma 14 (Kiangata and Magare),4,3,0,0.2,34.33333333,20.44,15.97,18.205,MN3
+Eastern Africa,Kenya,23262,Buluk (West Stephanie),13,10,2,4.257487,36.59267,18,17.2,17.6,MN3
+Eastern Africa,Kenya,23859,Kalodirr,30,13,0,3.379603,35.701074,17.5,16.8,17.15,MN4
+Eastern Africa,Kenya,24265,Murourot Hill,27,11,1,3.26669,35.824713,17.5,16.8,17.15,MN4
+Eastern Africa,Kenya,23226,Locherangan,15,7,0,3.745009,35.612628,17.5,16.6,17.05,MN4
+Eastern Africa,Kenya,23738,Karungu,6,5,0,0.833,34.15,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23740,Karungu (Nira & Kachuka),31,14,2,0.842,34.158,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23781,Mfwangano 1,19,3,0,0.45,34,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23782,Mfwangano 2,19,3,0,0.453,34.003,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23783,Mfwangano 3,25,9,1,0.456,34.006,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23785,Mfwangano 5,15,7,0,0.458,34.008,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23727,Rusinga (Gumba),26,13,2,0.417,34.119,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23708,Rusinga (Hiwegi west),21,13,0,0.383,34.2,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23728,Rusinga (Kalim),7,7,0,0.406,34.158,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23709,Rusinga (kiahera hill),20,10,0,0.401,34.151,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23734,Rusinga (Wayondo),27,14,1,0.396,34.183,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23779,Uyoma 12 (Rangoye),10,4,1,0.317,34.3,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23769,Uyoma 2 (Chianda N),17,9,1,0.233,34.35,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23770,Uyoma 3 (Chianda S),4,3,1,0.233,34.35,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23772,Uyoma 5 (Kunya),4,3,0,0.283,34.15,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23776,Uyoma 9 (Nyabera),6,4,0,0.3,34.267,17.2,16.4,16.8,MN4
+Eastern Africa,Kenya,23263,Fort Ternan,35,10,5,-0.216666667,35.35,13.8,13.7,13.75,MN6
+Eastern Africa,Kenya,26868,Alengerr beds,4,4,0,1.014888,36.227911,14.523,11.63,13.0765,MN6
+Eastern Africa,Kenya,23855,Fort Ternan 1 (Kapsibor),7,4,0,-0.2175,35.35083333,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23856,Fort Ternan 2 (Serek),10,6,1,-0.218055556,35.35138889,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23256,Ngorora A,11,4,8,0.836337,35.786351,13.09,12.36,12.725,MN7-8
+Eastern Africa,Kenya,23790,Ngorora B,7,4,2,0.669,36.002,13.09,12.36,12.725,MN7-8
+Eastern Africa,Kenya,23843,Nyakach 10 (Kaimogool North),12,4,3,0.351,35.017,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23844,Nyakach 11 (Kaimogool South),13,7,2,0.351,35.018,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23845,Nyakach 12 (Kaplelatet),4,4,0,0.333,35.033,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23847,Nyakach 14 (Koimoroon 1),5,3,0,0.351,35.017,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23850,Nyakach 17 (Koimoroon 4),3,1,1,0.354,35.021,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23853,Nyakach 19 (Pundo),7,5,1,0.35,35,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23835,Nyakach 2 (Aiyoo West),5,3,1,0.334,34.951,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23838,Nyakach 5 (Cherwa),5,2,3,0.317,35.033,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23840,Nyakach 7 (Kadianga East),4,3,1,0.383,34.933,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23841,Nyakach 8 (Kadianga West),11,5,2,0.384,34.934,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23842,Nyakach 9 (Kaimogool East),5,3,1,0.35,35.017,13.82,11.63,12.725,MN7-8
+Eastern Africa,Kenya,23793,Ngorora C,3,2,1,0.678728,35.784321,12.725,11.63,12.1775,MN7-8
+Eastern Africa,Kenya,23796,Ngorora D,10,3,3,0.758888889,35.78333333,12.36,9.8764,11.1182,MN9
+Eastern Africa,Kenya,23799,Ngorora E,10,5,3,0.833333333,35.825,10.1687,9.438,9.80335,MN10
+Eastern Africa,Kenya,23216,Namurungule Fm,29,8,9,1.711325,36.523414,10.1,9.5,9.8,MN10
+Eastern Africa,Kenya,23817,Ngeringerowa 1/1003,11,4,4,0.626632,35.874324,9.438,8.342,8.89,MN11
+Eastern Africa,Kenya,23810,Kaperyon,9,2,3,0.667,36,7.2221,5.9627,6.5924,MN13
+Eastern Africa,Kenya,23257,Mpesida,14,4,9,0.961294,35.922112,6.6083,6.2895,6.4489,MN13
+Eastern Africa,Kenya,23258,Lukeino 1,4,1,3,0.777777778,35.87222222,6.56,5.73,6.145,MN13
+Eastern Africa,Kenya,23801,Lukeino 2,4,0,4,0.777777778,35.87222222,6.56,5.73,6.145,MN13
+Eastern Africa,Kenya,23804,Cheboit (BPRP29),13,3,5,0.7775,35.87222222,6.14,5.89,6.015,MN13
+Eastern Africa,Kenya,23932,Ekora,9,2,6,2.539521,36.185052,5.333,3.9565,4.64475,MN15
+Eastern Africa,Kenya,23823,Bala Deino,9,5,2,0.335,34.485,5.333,2.58,3.9565,MN15
+Eastern Africa,Kenya,23822,Kanam Central,6,0,5,0.335,34.485,5.333,2.58,3.9565,MN15
+Eastern Africa,Kenya,23820,Kanam East,14,5,6,0.333,34.483,5.333,2.58,3.9565,MN15
+Eastern Africa,Kenya,23824,Kanam East Hot Springs,4,0,4,0.336,34.486,5.333,2.58,3.9565,MN15
+Eastern Africa,Kenya,23821,Kanam West,19,5,11,0.334,34.484,5.333,2.58,3.9565,MN15
+Eastern Africa,Kenya,26923,Kubi Algi,6,1,4,3.771666667,36.43305556,5.333,2.58,3.9565,MN15
+Eastern Africa,Kenya,23702,Koobi Fora (Moiti),10,0,8,4.184376,36.439502,3.97,3.44,3.705,MN15
+Eastern Africa,Kenya,23931,Chemeron,35,5,14,0.65502,35.852401,5.333,1.8,3.5665,MN15
+Eastern Africa,Kenya,28388,Loruth Kaado 1,9,1,6,4.635285751,35.74401855,3.6,3.4,3.5,MN16
+Eastern Africa,Kenya,26872,Rawi 1,12,1,7,0.416666667,35,3.6,2.58,3.09,MN16
+Eastern Africa,Kenya,26905,Kanjera South,18,2,10,-0.333284,34.537015,2.581,1.778,2.1795,MN17
+Eastern Africa,Kenya,28391,Nyayanga NY-2,9,2,3,4.702353723,35.73303223,1.88,1.53,1.705,MN18
+Eastern Africa,Kenya,28390,Loruth Kaado 3,6,0,5,4.609278084,35.75912476,1.53,1.33,1.43,MN18
+Eastern Africa,Kenya,26904,Kanjera North,28,2,14,-0.332412,34.537568,1.778,0.3905,1.08425,MN18
+Eastern Africa,Kenya,26900,Kanam East 1,15,0,9,0.333611111,34.48361111,1.9,0.0117,0.95585,MN18
+Eastern Africa,Kenya,26901,Kanam East 2,7,1,5,0.333888889,34.33388889,1.9,0.0117,0.95585,MN18
+Eastern Africa,Kenya,26902,Kanam East 3,7,0,6,0.334166667,34.48333333,1.9,0.0117,0.95585,MN18
+Eastern Africa,Kenya,26811,Marsabit Road,4,1,3,2.5,37.45,1.9,0.0117,0.95585,MN18
+Eastern Africa,Kenya,23225,West Turkana 9,30,1,18,4.333,35.867,1.9,0.0117,0.95585,MN18
+Eastern Africa,Kenya,26906,Kanjera Apoko,9,0,6,-0.333284,34.537015,0.3905,0,0.19525,MN18
+Eastern Africa,Uganda,23917,Moroto I,12,5,0,2.536,34.636,23.03,20.44,21.735,MN1
+Eastern Africa,Uganda,23879,Bukwa,28,14,1,1.288555,34.782202,19.6,18.6,19.1,MN3
+Eastern Africa,Uganda,23913,Napak I,18,6,0,2.102777778,34.1931,20.44,15.97,18.205,MN3
+Eastern Africa,Uganda,23915,Napak IV,15,4,0,2.008,34.008,20.44,15.97,18.205,MN3
+Eastern Africa,Uganda,23916,Napak V,14,6,0,2.011,34.011,20.44,15.97,18.205,MN3
+Eastern Africa,Uganda,23237,Albertine 6,5,0,2,1.167,30.5,11.63,7.246,9.438,MN10
+Eastern Africa,Uganda,23232,Albertine 1,31,5,12,2,31,7.246,5.333,6.2895,MN13
+Eastern Africa,Uganda,23242,Albertine 11,3,1,1,0.167,30,7.246,5.333,6.2895,MN13
+Eastern Africa,Uganda,23238,Albertine 7,5,1,3,1.083,30.417,7.246,5.333,6.2895,MN13
+Eastern Africa,Uganda,23233,Albertine 2,19,4,11,1.833,30.833,5.333,3.6,4.4665,MN15
+Eastern Africa,Uganda,23241,Albertine 10,10,1,7,1.083,30.533,3.6,2.58,3.09,MN16
+Eastern Africa,Uganda,23234,Albertine 3,6,0,5,1.75,30.917,3.6,2.58,3.09,MN16
+Eastern Africa,Uganda,23235,Albertine 4,21,2,17,1.917,30.75,3.6,2.58,3.09,MN16

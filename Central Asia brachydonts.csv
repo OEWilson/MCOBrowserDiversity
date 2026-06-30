@@ -1,0 +1,214 @@
+﻿Region,Country,NOWID,Locality.name,N,Brachydonts,Hypsodonts,Latitude,Longitude,Max.age,Min.age,Age,European.Mammal.Zone
+Central Asia,Afghanistan,20640,Taghar,11,3,6,34.35,69.41666667,8.9,7.6,8.25,MN11
+Central Asia,Afghanistan,20401,Molayan,24,5,7,34.3167,69.4167,7.6,7.1,7.35,MN12
+Central Asia,Afghanistan,24847,Gurgemaydan,3,1,2,34.2972,69.4083,8.9,5.3,7.1,MN13
+Central Asia,Afghanistan,24356,Pul-e-Charkhi,17,2,2,34.9167,69.4167,5.3,5,5.15,MN14
+Central Asia,China,22888,Chaganbulage,14,9,0,39.83333333,104.6666667,33.77,32.63,33.2,MP21
+Central Asia,China,22643,Erden-Obo,15,10,0,42.55,111.5,33.9,30.277,32.0885,MP22
+Central Asia,China,22889,Wulanbulage-E.,22,5,0,41.133,110.933,32.63,28.82,30.725,MP23
+Central Asia,China,22890,Wulanbulage-L.,21,6,0,41.133,110.933,32.63,28.82,30.725,MP23
+Central Asia,China,22891,Ulantatal,34,4,1,39.1667,106.5,30.83,28.82,29.825,MP24
+Central Asia,China,22899,Taben-Buluk,22,3,0,39.8333,95,28.82,23,25.91,MP26
+Central Asia,China,24240,Upper-Shargaltein,22,4,0,39.75,97,28.465,23.03,25.7475,MP26
+Central Asia,China,24505,Lanzhou-zhangjiaping,12,3,0,36,104,21.483,20.439,20.961,MN2
+Central Asia,China,26496,Danghe-xishuigou,6,2,1,39.5,95,19.722,18.056,18.889,MN3
+Central Asia,China,24524,Sihong-shuanggou,21,4,0,33.25,118.2,17.2,16.4,16.8,MN4
+Central Asia,China,24525,Sihong-songlinzhuang,36,8,0,33.3,118.25,17.2,16.4,16.8,MN4
+Central Asia,China,26498,Guanghe-dalanggou,9,7,1,35.46666667,103.4666667,17,15.2,16.1,MN5
+Central Asia,China,20623,Shanwang,30,13,1,32.0167,116.4917,17,15.2,16.1,MN5
+Central Asia,China,26477,Junggar-duolebulejin,9,4,4,46.42,87.48,15.16,13.032,14.096,MN6
+Central Asia,China,27765,Tunggur- ALU,12,4,3,43.78916667,113.085,12.85,11.2,12.025,MN7-8
+Central Asia,China,27752,Tunggur- DA,5,4,1,43.54277778,112.6311111,12.85,11.2,12.025,MN7-8
+Central Asia,China,27763,Tunggur- HU,16,9,0,43.78916667,113.1397222,12.85,11.2,12.025,MN7-8
+Central Asia,China,27756,Tunggur- MC,6,2,3,43.63888889,112.7502778,12.85,11.2,12.025,MN7-8
+Central Asia,China,27761,Tunggur- MOII,38,1,2,43.74472222,112.9005556,12.85,11.2,12.025,MN7-8
+Central Asia,China,27754,Tunggur- ZH,7,3,1,43.60194444,112.6836111,12.85,11.2,12.025,MN7-8
+Central Asia,China,27755,Tunggur-AC,8,2,1,43.61472222,112.7169444,12.85,11.2,12.025,MN7-8
+Central Asia,China,27753,Tunggur-WC,17,6,3,43.54916667,112.6619444,12.85,11.2,12.025,MN7-8
+Central Asia,China,20494,Zhoukoudian 13,37,1,7,41.53530029,2.078349007,12.85,11.2,12.025,MN7-8
+Central Asia,China,24470,Fangxian,5,2,2,32.1,110.7,12.5,11.2,11.85,MN7-8
+Central Asia,China,27063,Junggur dingshanyanchi,26,4,0,46.425,87.48333333,12.5,11.2,11.85,MN7-8
+Central Asia,China,20925,Lintong-lengshuigou,12,6,3,34.1,109.3,12.5,11.2,11.85,MN7-8
+Central Asia,China,20978,Minhe-lierbao,6,3,1,36.6,102.8,12.5,11.2,11.85,MN7-8
+Central Asia,China,24547,Xinan,5,2,2,34.66222222,112.18,12.5,11.2,11.85,MN7-8
+Central Asia,China,28227,Damiao 02,18,3,0,42.00861111,111.5805556,11.657,11.592,11.6245,MN7-8
+Central Asia,China,20627,Qaidam-Tuosu,14,3,7,37.1,96.83333333,12.049,9.105,10.577,MN9
+Central Asia,China,20628,Amuwusu,37,5,0,42.3675,112.7408,11.2,9.5,10.35,MN9
+Central Asia,China,24920,Guonigou,10,1,7,35.83333333,103.75,11.2,9.5,10.35,MN9
+Central Asia,China,20631,Wuzhong-ganhegou,4,1,3,37.9919,106.2025,11.2,9.5,10.35,MN9
+Central Asia,China,20632,Zhongning-ganhegou,3,1,2,37.4942,105.6672,11.2,9.5,10.35,MN9
+Central Asia,China,20493,Zhoukoudian 12,25,2,2,41.52518224,2.032684703,11.2,8.9,10.05,MN9
+Central Asia,China,24487,Lantian-12,18,1,4,34.20935,109.194167,9.786,9.764333333,9.775166667,MN10
+Central Asia,China,20920,Lantian-Shuijiazui,14,3,7,34.1,109.3,11.63,7.2,9.415,MN10
+Central Asia,China,24471,Fugu-Laogaochuan-wangdafuliang,11,3,5,39.229167,110.5213888,9.9,8.9,9.4,MN10
+Central Asia,China,26501,Guanghe-sigou,19,2,3,35.48333333,103.5,9.9,8.9,9.4,MN10
+Central Asia,China,24921,Hezheng-Dashengou,38,9,16,35.85,103.7333,9.9,8.9,9.4,MN10
+Central Asia,China,20630,Biru-Bulong,10,0,4,31.567,93.833,9.5,9,9.25,MN10
+Central Asia,China,24597,Bahe,26,6,7,33.4,109.1,9.9,7.1,8.5,MN11
+Central Asia,China,26503,Qaidam-shenggou,28,3,4,37.08333333,97.25,8.9,7.6,8.25,MN11
+Central Asia,China,24922,Yangjiashan,25,5,6,35.8667,103.7667,8.9,7.6,8.25,MN11
+Central Asia,China,24490,Lantian-30,7,1,2,34.19944444,109.2269444,8.254,8.205333333,8.229666667,MN11
+Central Asia,China,24501,Lantian-shuijiazui-L4(s6),6,3,3,34.1,109.3,8.254,8.205333333,8.229666667,MN11
+Central Asia,China,24572,Fugu-Laogaochuan-lamagou,24,5,8,39.229167,110.5213888,8.972,7.2,8.086,MN11
+Central Asia,China,23040,Lantian-6,22,3,5,34.185694,109.251778,8.108,8.0254,8.0667,MN11
+Central Asia,China,24500,Lantian-shuijiazui-L1(s5),9,3,4,34.1,109.3,8.108,8.0254,8.0667,MN11
+Central Asia,China,24504,Lantian-shuijiazui-s4,6,1,4,34.1,109.3,7.285,7.251,7.268,MN12
+Central Asia,China,24517,Pao-Te-Lok.31,21,2,9,39.023083,111.184867,7.14,6.9365,7.03825,MN13
+Central Asia,China,24518,Pao-Te-Lok.43,22,3,12,39.01604943,111.0919476,7.14,6.9365,7.03825,MN13
+Central Asia,China,24496,Lantian-42,12,2,5,34.17916667,109.255,6.733,6.5845,6.65875,MN13
+Central Asia,China,20919,Lantian-jiulaopo-s3,6,3,1,34.1,109.3,6.733,6.436,6.5845,MN13
+Central Asia,China,24513,Pao-Te-Lok.108,20,3,6,39.002183,111.165867,6.5845,6.436,6.51025,MN13
+Central Asia,China,26464,Akesai-hongyazi,6,3,2,39.33333333,94.33333333,7.2,5.3,6.25,MN13
+Central Asia,China,27156,Chang Chia Chuang,7,2,0,37.04222222,112.9902778,7.2,5.3,6.25,MN13
+Central Asia,China,24468,Dongxiang-jiegou,5,2,2,35,103,7.2,5.3,6.25,MN13
+Central Asia,China,24472,Fu-Ku-Lok.51,8,1,6,39.229167,110.5213889,7.2,5.3,6.25,MN13
+Central Asia,China,24573,Fugu-Laogaochuan-miaoliang,12,6,4,39.229167,110.5213889,7.2,5.3,6.25,MN13
+Central Asia,China,24916,Guanghe-zhuangheji-LX200019,6,1,2,35.5,103.5,7.2,5.3,6.25,MN13
+Central Asia,China,24918,Hezheng-heilingding-LX200035,18,0,3,35.3333,103.1667,7.2,5.3,6.25,MN13
+Central Asia,China,24917,Hezheng-hetuo-LX200023,8,2,3,35.4667,103.1667,7.2,5.3,6.25,MN13
+Central Asia,China,24476,Huade-Tuchetse,12,6,5,42,114,7.2,5.3,6.25,MN13
+Central Asia,China,26455,Huoxian-anlecun,10,5,2,36.48333333,111.6666667,7.2,5.3,6.25,MN13
+Central Asia,China,26442,Jingning,5,2,2,35.5,105.6666667,7.2,5.3,6.25,MN13
+Central Asia,China,24482,Jungar-Yaogou,12,3,6,40,112,7.2,5.3,6.25,MN13
+Central Asia,China,20923,Lantian-gongwangling-shuizigou,6,2,2,34.1,109.3,7.2,5.3,6.25,MN13
+Central Asia,China,20921,Lantian-koujiacun-damiaogou,9,3,2,34.1,109.3,7.2,5.3,6.25,MN13
+Central Asia,China,26440,Lushi-Redclay,8,5,1,34,111,7.2,5.3,6.25,MN13
+Central Asia,China,24514,Pao-Te-Lok.109,17,3,5,38.98175,111.165368,7.2,5.3,6.25,MN13
+Central Asia,China,24515,Pao-Te-Lok.110,12,3,6,39,111,7.2,5.3,6.25,MN13
+Central Asia,China,24521,Pao-Te-Lok.52,12,3,3,39,111,7.2,5.3,6.25,MN13
+Central Asia,China,24522,Qinan-Chenggoucun,6,2,4,35,106,7.2,5.3,6.25,MN13
+Central Asia,China,26452,Wenquan-dakusitai,8,3,1,45,81,7.2,5.3,6.25,MN13
+Central Asia,China,26446,Xili,3,1,2,34.08333333,105.0833333,7.2,5.3,6.25,MN13
+Central Asia,China,24571,Zhangqiu-Balouhe,12,6,2,36.66666667,117.4666667,7.2,5.3,6.25,MN13
+Central Asia,China,24477,Jilong,14,3,3,28.86666667,85.18333333,7.1,5.333,6.2165,MN13
+Central Asia,China,28211,Ho-qu-114,11,3,7,39.41666667,111.4166667,7.1,5.3,6.2,MN13
+Central Asia,China,24474,Hsin-An-Loc.12,12,5,1,34.6,112.2,7.1,5.3,6.2,MN13
+Central Asia,China,24485,Qingyang-Lok.115,14,1,8,36,108,7.1,5.3,6.2,MN13
+Central Asia,China,24486,Qingyang-Lok.116,16,2,10,36,108,7.1,5.3,6.2,MN13
+Central Asia,China,24528,Songshan-Loc.2,33,4,9,36.96472222,103.2905556,7.1,5.3,6.2,MN13
+Central Asia,China,24529,Songshan-Loc.3,20,3,8,36.96027778,103.2794444,7.1,5.3,6.2,MN13
+Central Asia,China,24541,Wu-Hsiang-Loc.71,4,1,2,36.8,112.8,7.1,5.3,6.2,MN13
+Central Asia,China,24542,Wu-Hsiang-loc.78,8,4,3,36.8,112.9,7.1,5.3,6.2,MN13
+Central Asia,China,24543,Wu-Hsiang-Lok.70,7,4,2,36.8,112.9,7.1,5.3,6.2,MN13
+Central Asia,China,24544,Wu-Hsiang-Lok.73,10,5,3,36.8,112.9,7.1,5.3,6.2,MN13
+Central Asia,China,20943,Yushe-hounao,13,4,1,37,112.9,7.1,5.3,6.2,MN13
+Central Asia,China,24516,Pao-Te-Lok.30,39,2,12,38.985448,111.175645,5.767,5.501,5.634,MN13
+Central Asia,China,24919,Guanghe-shilidun-LX200014,23,2,5,35.5,103.5,5.3,5,5.15,MN14
+Central Asia,China,26463,Guide-heerjia,15,1,4,36,101.5,5.235,4.3965,4.81575,MN15
+Central Asia,China,20636,Gaozhuang,12,3,3,37.28666667,113.119,5.3,3.55,4.425,MN15
+Central Asia,China,24560,Yushe-Gaozhuang,13,3,3,37,113,5.3,3.55,4.425,MN15
+Central Asia,China,26489,Lingtai-xiaoshigou-3,36,2,5,35.06666667,107.725,5.3,3.4,4.35,MN15
+Central Asia,China,26466,Mianxian-yangjiawan,11,5,3,33.16666667,106.7,5.3,2.6,3.95,MN15
+Central Asia,China,20947,Yushe-YS156,8,2,2,37,112.9,5.3,2.6,3.95,MN15
+Central Asia,China,28319,Tibet Zanda,21,3,3,31.56527778,79.84805556,4.187,3.596,3.8915,MN15
+Central Asia,China,26494,Lingtai-renjiagou,9,2,4,35,107.7333333,3.596,3.33,3.463,MN16
+Central Asia,China,27072,Yuxian-Danangou,21,1,2,40.09333333,114.7263889,3.4977,2.58,3.03885,MN16
+Central Asia,China,24478,Jingle-hefeng,13,0,4,38.35444444,111.9316667,3.55,2.5,3.025,MN16
+Central Asia,China,20635,Youhe,6,2,2,34.5,109.5,3.4,2.6,3,MN16
+Central Asia,China,20638,Yuxian-Dongyaozitou,11,3,3,40.09027778,114.7233333,3.032,2.581,2.8065,MN16
+Central Asia,China,27077,Zhoukoudian Loc18,25,2,2,39.66666667,115.9166667,2.58,1.978,2.279,MN17
+Central Asia,China,27076,Longdan,15,1,7,35.51666667,103.5,2.5,1.9,2.2,MN17
+Central Asia,China,24137,Bajiazui,27,1,5,35.8833,107.45,2.58,0.774,1.677,MN18
+Central Asia,China,24136,Gengjiagou,11,2,5,36.5756,107.2983,2.58,0.774,1.677,MN18
+Central Asia,China,24103,Lingyi,13,3,9,34.9667,110.1167,1.6594,1.4815,1.57045,MN18
+Central Asia,China,24113,Wangbuding,21,3,6,31.8167,98.6667,1.80951,1.15317,1.48134,MN18
+Central Asia,China,24126,Longgudong Cave 6,13,2,6,30.6542,110.0747,1.677,1.2255,1.45125,MN18
+Central Asia,China,23056,Huangjiawan,23,8,7,33.4822,108.8683,1.376,0.774,1.075,MN18
+Central Asia,China,24122,Longgudong Cave 3,12,2,4,30.6542,110.0747,1.376,0.774,1.075,MN18
+Central Asia,China,24082,Yanjinggou,30,6,7,30.62694444,108.4491667,1.376,0.774,1.075,MN18
+Central Asia,China,24091,Zhoukoudian 9,22,0,7,39.6833,115.9347,1.376,0.774,1.075,MN18
+Central Asia,China,24125,Longgudong Cave 4,15,3,6,30.6542,110.0747,1.1,1,1.05,MN18
+Central Asia,China,24121,Longgudong Cave 2,12,3,3,30.6542,110.0747,1.2255,0.774,0.99975,MN18
+Central Asia,China,27237,Koloshan,17,2,3,29.57777778,106.4125,0.774,0.4515,0.61275,MN18
+Central Asia,China,24083,Laochihe,12,2,3,34.355,109.5177778,0.774,0.129,0.4515,MN18
+Central Asia,China,24109,Baiyundong Cave,13,0,5,34.2833,117.3,0.344,0.129,0.2365,MN18
+Central Asia,China,24110,Xujiayao,20,0,12,40.1,113.9833,0.2,0.16,0.18,MN18
+Central Asia,China,26950,Yushu,7,0,6,46,129,0.129,0.0117,0.07035,MN18
+Central Asia,China,27232,Aba Zawei,5,0,4,33.25,102.4166667,0.0295,0.0235,0.0265,MN18
+Central Asia,China,26949,Xiaogushan,6,1,4,40.58138889,122.975,0.017,0.01,0.0135,MN18
+Central Asia,China,24119,Tangke,5,0,4,32.9167,101.7,0.01175,0.0117,0.011725,MN18
+Central Asia,China,24115,Xialatuo,13,1,5,31.4,100.6333,0.0117,0.0117,0.0117,MN18
+Central Asia,Kazakhstan,22915,Kiinkerish 3,3,3,0,48,84,33.77,32.63,33.2,MP21
+Central Asia,Kazakhstan,22923,Tuzkabak,4,1,0,47.5,85.3,33.77,32.63,33.2,MP21
+Central Asia,Kazakhstan,22555,Shintuz-Sai,9,5,0,49.6,63.48,30.277,26.653,28.465,MP25
+Central Asia,Kazakhstan,22928,Karakol,10,6,0,46.167,68.667,28.82,23,25.91,MP26
+Central Asia,Kazakhstan,20839,Aktau lower,5,4,0,44.4,79,26.223,24.627,25.425,MP26
+Central Asia,Kazakhstan,20655,Myn-Eske-Suek,25,11,1,48.5,65.7,26.223,24.627,25.425,MP26
+Central Asia,Kazakhstan,22586,Sary-Su,2,3,0,47,67,26.653,23.03,24.8415,MP27
+Central Asia,Kazakhstan,22588,Ushkul,16,4,1,51.8,62.25,26.653,23.03,24.8415,MP27
+Central Asia,Kazakhstan,20836,Askazansor,19,7,3,45.1,67.8,25.425,22.167,23.796,MP29
+Central Asia,Kazakhstan,22926,Alatage,8,5,0,48.019573,66.923684,24.56,23,23.78,MP29
+Central Asia,Kazakhstan,22927,Tosbulak,5,4,0,42.25,67.833,24.56,23,23.78,MP29
+Central Asia,Kazakhstan,27104,Maraldy,5,4,0,51.41666667,78.41666667,20.44,15.97,18.205,MN3
+Central Asia,Kazakhstan,20781,Aktau middle,6,6,0,44.4,79,19.5,16.4,17.95,MN3
+Central Asia,Kazakhstan,20665,Bestyube,8,5,1,52.499,73.098,19.5,16.4,17.95,MN3
+Central Asia,Kazakhstan,21652,Aktau Mountain,27,6,2,44.4,79,17.2,14.2,15.7,MN5
+Central Asia,Kazakhstan,20642,Dzhilanchik (Uly-Dzhilanchik),12,8,2,49.4,65,16.4,14.2,15.3,MN5
+Central Asia,Kazakhstan,20656,Kalmakpaj,35,7,2,51.7,76.5,16.4,14.2,15.3,MN5
+Central Asia,Kazakhstan,20657,Kushuk,6,5,0,49.3,64.6,16.4,14.2,15.3,MN5
+Central Asia,Kazakhstan,22951,Kulanutpes,7,5,2,50.167,70.5,11.2,9.9,10.55,MN9
+Central Asia,Kazakhstan,28087,Karabulak svita,18,2,8,47.4025,84.95,11.63,7.246,9.438,MN10
+Central Asia,Kazakhstan,20808,Botamojnak,14,2,6,42.95,77.3,9.9,8.9,9.4,MN10
+Central Asia,Kazakhstan,20807,Saty lower,4,2,2,42.95,77.5,10.1687,7.246,8.70735,MN11
+Central Asia,Kazakhstan,20103,Kalmakpaj,18,2,8,47.3,85.3,7.1,5.3,6.2,MN13
+Central Asia,Kazakhstan,20822,Karabastuz,14,3,5,50.3,79.167,7.1,5.3,6.2,MN13
+Central Asia,Kazakhstan,20823,Ajgyrzhal,4,1,3,42.95,80.05,4.863,3.988,4.4255,MN15
+Central Asia,Kazakhstan,20796,Zhabyrtau,6,2,6,43,80.1,4.863,3.988,4.4255,MN15
+Central Asia,Kazakhstan,20664,Dzhenama,8,4,2,49.2,83.6,5.333,2.58,3.9565,MN15
+Central Asia,Kazakhstan,20795,Esekartkan,20,5,8,43.1,80.3,3.55,3.025,3.2875,MN16
+Central Asia,Kazakhstan,20659,Selim-Dzhevar,38,5,2,53.5,66.2,3.55,2.725,3.1375,MN16
+Central Asia,Kazakhstan,20830,Kopala 2,32,0,8,43.4,79,3,2.175,2.5875,MN16
+Central Asia,Kazakhstan,20817,Charyn upper,5,2,2,43.6,79.4,2.45,2.175,2.3125,MN17
+Central Asia,Kazakhstan,20797,Adyrgan,15,1,4,43.05,80.2,2.5,1.9,2.2,MN17
+Central Asia,Kazakhstan,21249,Podpusk-Lebyazhje,27,1,8,51.3,77.988,2.5,1.9,2.2,MN17
+Central Asia,Kazakhstan,21260,Podpusk-Lebyazhje 2,10,2,3,51.3,77.988,2.2,1.9,2.05,MN17
+Central Asia,Kazakhstan,26953,Irtysh left bank,8,1,7,51.5,75,0.03625,0.01,0.023125,MN18
+Central Asia,Kyrgyzstan,20779,Dzhuanaryk,12,6,3,42.2,75.6,8.9,7.6,8.25,MN11
+Central Asia,Kyrgyzstan,20806,Ortok,13,3,6,42.4,75.6,7.6,7.1,7.35,MN12
+Central Asia,Kyrgyzstan,20783,Alabuga,5,0,5,41.5,76.2,5.333,4.4153,4.87415,MN15
+Central Asia,Kyrgyzstan,20818,Chonbulak,6,0,6,42.3,76,4.4153,2.58,3.49765,MN16
+Central Asia,Kyrgyzstan,20798,Ichketasma,5,1,4,42.7,78.3,3.4977,2.58,3.03885,MN16
+Central Asia,Kyrgyzstan,21870,Tepke 1,6,1,3,42.31,78.75,0.988,0.781,0.8845,MN18
+Central Asia,Mongolia,22901,Ergilin-Dzo,7,5,0,43.5,109.5,33.77,32.63,33.2,MP21
+Central Asia,Mongolia,22903,Menkhen-Teg,4,3,1,45.25,101.75,33.77,32.63,33.2,MP21
+Central Asia,Mongolia,24168,Tsakhir,10,2,0,44,103,33.9,30.277,32.0885,MP22
+Central Asia,Mongolia,24169,Ulaan-Khongil-(Shand Mbr),38,7,0,46,101,33.9,28.465,31.1825,MP22
+Central Asia,Mongolia,24172,Zavlia-(Shand Mbr),26,7,1,46,101,33.9,28.465,31.1825,MP22
+Central Asia,Mongolia,22310,Tatal Gol,27,7,1,45.25,101.75,33,29,31,MP22
+Central Asia,Mongolia,22904,Shunkht,22,5,0,44,107,32.63,28.82,30.725,MP23
+Central Asia,Mongolia,22311,Taatsiin Gol right 1,24,6,0,45.417,101.25,33,26,29.5,MP24
+Central Asia,Mongolia,22306,Hsanda Gol,14,5,0,45.26305556,101.7175,33,24,28.5,MP25
+Central Asia,Mongolia,22315,Ikh-Argalatyn-Nuruu,29,5,1,45.29722222,102.0916667,31.5,24,27.75,MP25
+Central Asia,Mongolia,20772,Khirgis-Nur I-Oshin,6,5,0,49.2,93.4,18.95,15.97,17.46,MN3
+Central Asia,Mongolia,20617,Ulan-Tologoj,19,6,2,46,106,18.205,14.895,16.55,MN4
+Central Asia,Mongolia,20666,Oshin-II-5 upper,10,1,9,47,92.4,11.2,9.9,10.55,MN9
+Central Asia,Mongolia,20615,Oshin-I-5 upper,10,2,5,47,92.4,10.05,8.9,9.475,MN10
+Central Asia,Mongolia,20614,Altan-Teli,20,3,10,47,92.6,8.9,7.6,8.25,MN11
+Central Asia,Mongolia,20613,Khirgis-Nur II-Altan-Teli,10,1,8,49.2,93.4,8.953333333,7.1,8.026666667,MN11
+Central Asia,Mongolia,20610,Khirgis-Nur II-lower,31,3,9,49.2,93.4,7.1,5.4,6.25,MN13
+Central Asia,Mongolia,20760,Kholobolochi Nor,7,1,3,45.4,100.9,7.1,5.3,6.2,MN13
+Central Asia,Mongolia,20612,Khirgis-Nur II-upper,32,3,10,49.2,93.4,5.4,4.6,5,MN15
+Central Asia,Mongolia,20608,Dzagso-Hairhan-4-2,15,0,4,48,94,4.717,4.133,4.425,MN15
+Central Asia,Mongolia,20842,Chono Hariah 1 lower,14,0,4,48.3,93,4.6,4.2,4.4,MN15
+Central Asia,Mongolia,20775,Khirgis-Nur II,28,2,10,49.2,93.4,4.6,4.2,4.4,MN15
+Central Asia,Tajikistan,24021,Darayaspoon,7,3,2,38.667,69.867,8.9,7.6,8.25,MN11
+Central Asia,Tajikistan,27079,Daraispon,4,2,1,38,69.5,7.6,7.1,7.35,MN12
+Central Asia,Tajikistan,20813,Sor,15,3,7,39.271,67.653,7.6,7.1,7.35,MN12
+Central Asia,Tajikistan,27088,Magian,5,0,4,39.26666667,67.65,8.9,5.3,7.1,MN13
+Central Asia,Tajikistan,24022,Marmar,3,1,2,39.333,67.833,8.9,5.3,7.1,MN13
+Central Asia,Tajikistan,27089,Pedjikent,3,0,3,39.26666667,67.66666667,8.9,5.3,7.1,MN13
+Central Asia,Tajikistan,20792,Gulizindon,5,0,4,38.237,69.417,3.4977,2.58,3.03885,MN16
+Central Asia,Tajikistan,20802,Koktyurlyuk,6,0,6,40.3,70,3.4977,2.58,3.03885,MN16
+Central Asia,Tajikistan,20803,Kuruksaj,36,4,15,38.4,69.7,3.025,1.9,2.4625,MN17
+Central Asia,Tajikistan,20799,Karamajdan,10,2,5,38.5,69.2,2.581,1.981,2.281,MN17
+Central Asia,Tajikistan,20820,Yakkabed,18,0,12,38.583,69.211,2.581,1.681,2.131,MN17
+Central Asia,Tajikistan,21250,Lakhuti 2,21,0,10,38.295,69.895,0.988,0.781,0.8845,MN18
+Central Asia,Tajikistan,24023,Khudji,9,0,5,38.667,68.667,0.115,0.03625,0.075625,MN18
+Central Asia,Uzbekistan,20789,Bel'dersaj lower,4,1,2,41.1,70,12.7068,4.4153,8.56105,MN11
+Central Asia,Uzbekistan,20812,Tashbulak,6,3,2,39.967,67.2,5.333,4.4153,4.87415,MN15
+Central Asia,Uzbekistan,20821,Tankhizdarja,3,0,3,39,67.45,5.333,3.4977,4.41535,MN15
+Central Asia,Uzbekistan,20791,Gidzhalsaj,4,1,3,41.15,70,5.333,2.58,3.9565,MN15
+Central Asia,Uzbekistan,20788,Bel'dersaj,3,0,3,41.1,70,3.4977,2.58,3.03885,MN16
+Central Asia,Uzbekistan,20819,Shakhrizyabz,3,0,3,39.1,66.9,3.4977,2.58,3.03885,MN16
+Central Asia,Uzbekistan,21253,Kairakkum,3,1,3,38.317,67.3,2.5,1.9,2.2,MN17
+Central Asia,Uzbekistan,26711,"Khoresm, Uchashchi st.",4,1,2,43,60,0.0117,0,0.00585,MN18
