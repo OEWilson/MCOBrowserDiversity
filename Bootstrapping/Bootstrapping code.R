@@ -790,10 +790,6 @@ usa.boots.plot <- ggplot() + scale_x_reverse("Age (Ma)",limits=c(0,40)) + scale_
   theme_bw() + coord_geo(pos = list("bottom"), dat = list("epochs"),abbrv = FALSE, expand=TRUE) + theme(text=element_text(size=20))
 usa.boots.plot
 
-all.regions.boots <- ggarrange(europe.boots.plot,balkanotolia.boots.plot,centralasia.boots.plot,india.boots.plot,eastafrica.boots.plot,usa.boots.plot,nrow=2,ncol=3)
-all.regions.boots
-ggsave(filename = "Bootstrapping results by region.svg", plot = all.regions.boots, width = 14, height = 10, units = 'cm', scale = 2, dpi = 800)
-
 #South America
 #Separate function for South America because non-hypsodonts are used rather than brachydonts
 maxbrachsa <- function(data, indices){
